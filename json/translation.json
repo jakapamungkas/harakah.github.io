@@ -1,0 +1,34 @@
+{"translator":
+	{
+		"search"			:	"Cari",
+		"uploads"			:	"Unggah",
+		"playlists"			:	"Playlists",
+		"events"			:	"Events",
+		"views"				:	"lihat",
+		"likes"				:	"likes",
+		"videos"			:	"videos",
+		"subscribers"		:	"subscribers",
+		"year"				:	"tahun",
+		"years"				:	"tahun",
+		"month"				:	"bulan",
+		"months"			:	"bulan",
+		"day"				:	"hari",
+		"days"				:	"hari",
+		"hour"				:	"jam",
+		"hours"				:	"jam",
+		"ago"				:	"yang lalu",
+		"now"				:	"Barusan",
+		"thoughts"			:	"Share your Thoughts...",
+		"comments"			:	"komentar",
+		"loadmore"			:	"Load More",
+		"next"				:	"Lanjut",
+		"previous"			:	"Sebelumnya",
+		"loadmorecomments" 	:	"Load More Comments",
+		"showcomments" 		:	"Show Comments",
+		"done"				:	"Done",
+		"nocommentsfound"	:	"No More Comments Found",
+		"loading"			:	"Loading..",
+		"loadinghd"			:	"Loading HD..."
+		
+	}
+}
